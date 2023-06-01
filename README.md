@@ -4,7 +4,7 @@ I'm Federico Merino , a passionate full-stack developer based in Argentina <img 
 
 I specialize in building dynamic and interactive web applications using modern web technologies. I have hands-on experience in front-end development with HTML, CSS, and JavaScript, along with popular frameworks and libraries like ReactJS, Next.js, and Vue.js. I am proficient in creating responsive and visually appealing UI designs using tools such as Bootstrap, Tailwind CSS, and Material-UI.
 
-On the back-end, I'm skilled in server-side development using Node.js and Express.js. I have experience with working on databases like MongoDB, MariaDB and leveraging cloud services like Firebase for scalable and secure web applications.
+On the back-end, I work in server-side development using Node.js and Express.js. I have experience with working on databases like MongoDB, MariaDB and leveraging cloud services like Firebase for scalable and secure web applications.
 
 #### My Approach:
 
