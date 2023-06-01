@@ -1,6 +1,6 @@
 ### 👋 Hey, nice to meet you!
 
-I'm Federico Merino , a passionate full-stack developer based in Argentina <img src="https://cdn.countryflags.com/thumbs/argentina/flag-round-250.png" width="16" height="16" /> .
+I'm Federico Merino , a passionate full-stack developer based in Argentina <img src="https://cdn.countryflags.com/thumbs/argentina/flag-round-250.png" width="16" height="16" alt="Argentina" title="Argentina" /> .
 
 I specialize in building dynamic and interactive web applications using modern web technologies. I have hands-on experience in front-end development with HTML, CSS, and JavaScript, along with popular frameworks and libraries like ReactJS, Next.js, and Vue.js. I am proficient in creating responsive and visually appealing UI designs using tools such as Bootstrap, Tailwind CSS, and Material-UI.
 
