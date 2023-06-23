@@ -6,11 +6,11 @@ I specialize in building dynamic and interactive web applications using modern w
 
 On the back-end, I work in server-side development using Node.js and Express.js. I have experience with working on databases like MongoDB, MariaDB and leveraging cloud services like Firebase for scalable and secure web applications.
 
-#### My Approach:
+#### My Approach
 
 I believe in writing clean and maintainable code, following best practices and industry standards. I strive to create user-centric experiences, focusing on performance and accessibility. I'm a strong believer in continuous learning and staying up-to-date with the latest trends and technologies in the ever-evolving web development landscape.
 
-#### Some technologies I've worked with:
+#### Some technologies I've worked with
 
 
 <div>
@@ -35,7 +35,7 @@ I believe in writing clean and maintainable code, following best practices and i
 </div>
 
 
-#### Get In Touch:
+#### Get In Touch
 
 If you're interested in collaborating or have any questions about my projects, feel free to reach out to me. Let's connect and build something amazing together!
 
