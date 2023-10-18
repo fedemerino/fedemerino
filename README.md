@@ -19,10 +19,11 @@ I believe in writing clean and maintainable code, following best practices and i
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/JavaScript.svg" alt="JavaScript" title="JavaScript" height="48" width="48" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/TypeScript.svg" alt="TypeScript" title="TypeScript" height"48" width="48" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/React-Dark.svg" alt="ReactJS" title="ReactJS" height="48" width="48" />
-  <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" title="Redux Toolkit" />
+  <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux Toolkit" title="Redux Toolkit" />
   <img src="https://www.hacksoft.io/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F98835%2F1684410508-image-7.png&w=384&q=75" alt="Next.js" title="Next.js" height="48" />
   <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js" title="Vue.js" />
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="Laravel" title="Laravel" />
   <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express.js" title="Express.js" height="48" width="48" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MongoDB.svg" alt="MongoDB" title="MongoDB" width="48" height="48" />
   <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap" height="48" width="48" />
