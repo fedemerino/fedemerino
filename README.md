@@ -2,13 +2,13 @@
 
 I'm Federico Merino , a passionate full-stack developer based in Argentina <img src="https://cdn.countryflags.com/thumbs/argentina/flag-round-250.png" width="16" height="16" alt="Argentina" title="Argentina" /> .
 
-I specialize in building dynamic and interactive web applications using modern web technologies. I have hands-on experience in front-end development with HTML, CSS, and JavaScript, along with popular frameworks and libraries like ReactJS, Next.js, and Vue.js. I am proficient in creating responsive and visually appealing UI designs using tools such as Bootstrap, Tailwind CSS, and Material-UI.
+I specialize in building dynamic and interactive web applications using modern web technologies. I have hands-on experience in front-end development with React, Next.js, and Vue.js. I am proficient in creating responsive and visually appealing UI designs using tools such as Tailwind CSS and Material-UI.
 
-On the back-end, I work in server-side development using PHP, Laravel, Node.js and Express.js. I have experience with working on databases like MongoDB, MariaDB and leveraging cloud services like Firebase for scalable and secure web applications.
+On the back-end, I work in server-side development using Node.js, Express, PHP, and Laravel. I have experience with working on databases like MySQL, MariaDB, MongoDB and leveraging cloud services like AWS for scalable and secure web applications.
 
 #### My Approach
 
-I believe in writing clean and maintainable code, following best practices and industry standards. I strive to create user-centric experiences, focusing on performance and accessibility. I'm a strong believer in continuous learning and staying up-to-date with the latest trends and technologies in the ever-evolving web development landscape.
+I believe in writing clean and maintainable code, following best practices and industry standards. I strive to create user-centric experiences, focusing on performance and accessibility. I'm a strong believer in continuous learning and staying up-to-date with the latest trends and technologies.
 
 #### Some technologies I've worked with
 
