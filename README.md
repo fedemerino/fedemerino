@@ -7,7 +7,7 @@ Tech stack:
 - Cloud: AWS Lambda, AppSync, S3, DynamoDB, OpenSearch (ElasticSearch), IAM, CloudWatch, CloudFormation, Event Bridge, SNS, RDS, EC2, Cognito, API Gateway.
 - Testing: Jest.
 - Other: Docker, Linux.
-- 
+
 If you're interested in collaborating or have any questions about my projects, feel free to reach out to me.
 
 <!--
